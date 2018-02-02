@@ -1,5 +1,5 @@
-var recipes = {pizza: 'cheese'}
+var recipes = {eggs: 3}
 
-function updateObjectWithKeyAndValue(recipes, pizza, cheese) {
+function updateObjectWithKeyAndValue() {
   
 }
