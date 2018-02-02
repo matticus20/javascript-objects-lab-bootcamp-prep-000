@@ -12,5 +12,5 @@ function destructivelyUpdateObjectWithKeyAndValue(obj, key, value) {
 destructivelyUpdateObjectWithKeyAndValue(recipes, 'vanilla', '1 tsp')
 
 function deleteFromObjectByKey(object, key) {
-  
+  delete 
 }
